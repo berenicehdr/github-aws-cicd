@@ -74,3 +74,4 @@ Resources:
         #Docker images provided by CodeBuild
         ComputeType: BUILD_GENERAL1_SMALL
         Image: aws/codebuild/standard:4.0
+#this is the yml file
